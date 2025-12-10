@@ -2,7 +2,7 @@
 
 Une application React simple et intuitive pour gérer les prêts de matériel informatique au sein d'une organisation. L'application fonctionne entièrement côté client avec stockage en mémoire.
 
-## 🚀 Fonctionnalités
+## Fonctionnalités
 
 ### Gestion des Utilisateurs
 - ✅ Création d'utilisateurs avec prénom et nom
@@ -35,7 +35,7 @@ Une application React simple et intuitive pour gérer les prêts de matériel in
 - ✅ Restauration depuis un fichier JSON
 - ✅ Export de l'historique filtré
 
-## 🛠️ Technologies Utilisées
+## Technologies Utilisées
 
 - **React 18** avec hooks (useState)
 - **TypeScript** pour la sécurité des types
@@ -43,7 +43,7 @@ Une application React simple et intuitive pour gérer les prêts de matériel in
 - **Lucide React** pour les icônes
 - **Vite** comme bundler de développement
 
-## 📦 Installation et Démarrage
+## Installation et Démarrage
 
 ### Prérequis
 - Node.js (version 16 ou supérieure)
@@ -72,7 +72,7 @@ npm run preview  # Prévisualisation de la version de production
 npm run lint     # Vérification du code avec ESLint
 ```
 
-## 🎯 Guide d'Utilisation
+## Guide d'Utilisation
 
 ### 1. Ajouter des Utilisateurs
 1. Aller dans l'onglet "Utilisateurs"
@@ -103,7 +103,7 @@ npm run lint     # Vérification du code avec ESLint
 2. Utiliser les filtres pour affiner la vue
 3. Exporter les données si nécessaire
 
-## 📊 Types d'Emprunts
+## Types d'Emprunts
 
 ### Emprunt à Durée Déterminée
 - Date de retour prévue définie
@@ -115,7 +115,7 @@ npm run lint     # Vérification du code avec ESLint
 - Badge "Durée indéterminée"
 - Idéal pour les prêts long terme
 
-## 🎨 Interface Utilisateur
+## Interface Utilisateur
 
 L'application propose une interface moderne et intuitive avec :
 - **Navigation par onglets** pour un accès rapide aux fonctionnalités
@@ -124,14 +124,14 @@ L'application propose une interface moderne et intuitive avec :
 - **Design responsive** adapté mobile et desktop
 - **Indicateurs visuels** pour les retards et statuts
 
-## 💾 Stockage des Données
+## Stockage des Données
 
 - **Stockage en mémoire** : Les données sont conservées pendant la session
 - **Pas de base de données externe** : Fonctionnement 100% client
 - **Export/Import JSON** : Pour la sauvegarde et restauration
 - **Réinitialisation** : Les données sont perdues au rechargement de page
 
-## 🔧 Structure du Projet
+## Structure du Projet
 
 ```
 src/
@@ -146,7 +146,7 @@ src/
 └── index.css            # Styles Tailwind
 ```
 
-## 🚀 Fonctionnalités Avancées
+## Fonctionnalités Avancées
 
 ### Statistiques en Temps Réel
 - Nombre total d'emprunts
@@ -164,14 +164,14 @@ src/
 - Export filtré de l'historique
 - Format JSON lisible
 
-## 🎯 Cas d'Usage Typiques
+## Cas d'Usage Typiques
 
 - **Entreprises** : Gestion des ordinateurs portables et équipements
 - **Écoles/Universités** : Prêt de matériel pédagogique
 - **Associations** : Gestion du matériel partagé
 - **Équipes IT** : Suivi des équipements temporaires
 
-## 🔮 Évolutions Possibles
+## Évolutions Possibles
 
 - Ajout de la persistance avec localStorage
 - Notifications de rappel pour les retours
@@ -180,11 +180,11 @@ src/
 - Génération de rapports PDF
 - API REST pour synchronisation multi-utilisateurs
 
-## 📝 Licence
+## Licence
 
 Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
 
-## 🤝 Contribution
+## Contribution
 
 Les contributions sont les bienvenues ! N'hésitez pas à :
 1. Fork le projet
